@@ -1,0 +1,11 @@
+C:\Users\jackr\Documents\Coding\Projects\Enigma Machine\EnigmaMachine\EnigmaMachine\bin\Debug\netcoreapp3.1\EnigmaMachine.exe
+C:\Users\jackr\Documents\Coding\Projects\Enigma Machine\EnigmaMachine\EnigmaMachine\bin\Debug\netcoreapp3.1\EnigmaMachine.deps.json
+C:\Users\jackr\Documents\Coding\Projects\Enigma Machine\EnigmaMachine\EnigmaMachine\bin\Debug\netcoreapp3.1\EnigmaMachine.runtimeconfig.json
+C:\Users\jackr\Documents\Coding\Projects\Enigma Machine\EnigmaMachine\EnigmaMachine\bin\Debug\netcoreapp3.1\EnigmaMachine.runtimeconfig.dev.json
+C:\Users\jackr\Documents\Coding\Projects\Enigma Machine\EnigmaMachine\EnigmaMachine\bin\Debug\netcoreapp3.1\EnigmaMachine.dll
+C:\Users\jackr\Documents\Coding\Projects\Enigma Machine\EnigmaMachine\EnigmaMachine\bin\Debug\netcoreapp3.1\EnigmaMachine.pdb
+C:\Users\jackr\Documents\Coding\Projects\Enigma Machine\EnigmaMachine\EnigmaMachine\obj\Debug\netcoreapp3.1\EnigmaMachine.csprojAssemblyReference.cache
+C:\Users\jackr\Documents\Coding\Projects\Enigma Machine\EnigmaMachine\EnigmaMachine\obj\Debug\netcoreapp3.1\EnigmaMachine.AssemblyInfoInputs.cache
+C:\Users\jackr\Documents\Coding\Projects\Enigma Machine\EnigmaMachine\EnigmaMachine\obj\Debug\netcoreapp3.1\EnigmaMachine.AssemblyInfo.cs
+C:\Users\jackr\Documents\Coding\Projects\Enigma Machine\EnigmaMachine\EnigmaMachine\obj\Debug\netcoreapp3.1\EnigmaMachine.dll
+C:\Users\jackr\Documents\Coding\Projects\Enigma Machine\EnigmaMachine\EnigmaMachine\obj\Debug\netcoreapp3.1\EnigmaMachine.pdb

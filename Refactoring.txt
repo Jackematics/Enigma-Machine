@@ -1,0 +1,45 @@
+*ENIGMA CLASS*
+
+Transform:
+Transforms cipherText
+Rotates wheels
+
+CryptCharacter:
+Sets a pattern for the wheelNumber
+Gets the crypted character from that pattern
+
+OrientatePattern:
+Orientates the pattern 
+
+GetSubPattern:
+Gets the permutation with the pattern that contains the cipherLetter
+
+GetCryptedCharacter:
+Gets the crpyt type
+
+NumberToChar:
+Converts number type to char type
+
+HandleCryptErrors:
+Handles crypt errors
+
+HandleCryptCharacterErrors:
+Handles the various errors
+
+*PATTERNSPLITTER CLASS*
+
+SplitPattern:
+Splits a pattern into a list of permutations
+
+HandleSplitPatternErrors: 
+Throws exceptions for errors in the SplitPatternErrors
+
+BeginsWithSplitter:
+Checks whether a pattern has a splitter at the beginning
+
+ContainsConsectutiveSpltiters:
+Checks whether a pattern has more than one splitter
+
+*REFLECTOR CLASS*
+
+Reflect:

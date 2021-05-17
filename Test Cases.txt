@@ -1,0 +1,9 @@
+Encrypt:
+
+Permutations with only one character
+Permutations with two characters
+Permutations with splitters
+Permutations with no splitters
+
+Pattern Splitter:
+
